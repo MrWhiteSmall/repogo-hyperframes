@@ -1,0 +1,13 @@
+{
+  "name": "repogo-hyperframes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "hyperframes": "0.9.5",
+    "gsap": "3.15.0"
+  }
+}

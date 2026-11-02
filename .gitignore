@@ -1,0 +1,5 @@
+node_modules/
+projects/
+renders/
+output/
+.DS_Store
